@@ -6,9 +6,9 @@ Angular App setup
    npm install
 2. And run the application with "ng serve"
 3.  To run the application PWA 
-    ng build --prod
-    cd dist/statisticsOfVirus
-    http-server -o
+    a) ng build --prod
+    b) cd dist/statisticsOfVirus
+    c) http-server -o
     
    Node App
    
